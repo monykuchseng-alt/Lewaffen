@@ -1,9 +1,7 @@
 {
-  "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "Lewaffen",
+  "name":  "Lewaffen",
   "compatibility_date": "2026-10-23",
-  "workers_dev": true,
-  "preview_urls": false,
-  "observability": { "enabled": true },
-  "assets": { "directory": "." }
+  "assets": {
+    "directory": "./"
+  }
 }
